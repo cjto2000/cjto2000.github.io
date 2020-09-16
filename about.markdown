@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <link rel="stylesheet" href="/css/styles.css">
-<img class="justin_face" src="/{{ site.baseurl }}assets/christopher_justin_ong.jpg" alt="drawing"/>
+<img class="justin_face" src="/{{ site.baseurl }}/assets/christopher_justin_ong.jpg" alt="drawing"/>
 
 Hi! I'm Justin. I'm an undergraduate student at the University of Washington planning to major in Computer Science and minor in Entrepreneurship. I've interned at Amazon where I worked on standardizing a data preparation tool, and I've also been working at a startup since the Summer of 2019 where I developed a remote sensing workflow as well as visualization tools for the UI.
 
