@@ -2,10 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+styles_path: /css/styles.css
+face_path: /assets/christopher_justin_ong.JPG
 ---
 
-<link rel="stylesheet" href="/css/styles.css">
-<img class="justin_face" src="/{{ site.baseurl }}/assets/christopher_justin_ong.JPG" alt="drawing"/>
+<link rel="stylesheet" href={% if site.baseurl==""%} "{{ page.styles_path }}" {% else %} "/{{site.baseurl}}{{ page.styles_path }}" {% endif %}>
+<img class="justin_face" src={% if site.baseurl==""%} "{{ page.face_path }}" {% else %} "/{{site.baseurl}}{{ page.face_path }} {% endif %}/>
 
 Hi! I'm Justin. I'm an undergraduate student at the University of Washington planning to major in Computer Science and minor in Entrepreneurship. I've interned at Amazon where I worked on standardizing a data preparation tool, and I've also been working at a startup since the Summer of 2019 where I developed a remote sensing workflow as well as visualization tools for the UI.
 
