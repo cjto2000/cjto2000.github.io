@@ -1,0 +1,14 @@
+$breakpoint-tablet: 600px;
+@media (min-width: $breakpoint-tablet) {
+  .justin_face {
+    width: 50%;
+    border-radius: 20%;
+  }
+}
+
+@media (max-width: $breakpoint-tablet) {
+  .justin_face {
+    max-width: 100%;
+    border-radius: 20%;
+  }
+}
