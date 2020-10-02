@@ -37,7 +37,7 @@ plugins:
 sass:
   sass_dir: _sass
 
-gogoel_analytics: UA-179472780-1
+google_analytics: UA-179472780-1
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
