@@ -11,6 +11,6 @@ Hi! I'm Justin. I'm an undergraduate student at the University of Washington maj
 
 My technical interests are always changing, but right now, I am mainly interested in machine learning applications.
 
-My personal interests lie mainly around personal development/self-help. Whether it be through challenging myself physically by learning advanced calisthenics skills or meditating daily to inspect the nature of consciousness, I'm always looking for ways to improve. This has quite recently led me down interesting topics in Psychology, Neuroscience, and Philosophy - none of which I would have guessed I'd be interested in as an adolescent.
+My personal interests lie mainly around personal development/self-help. Whether it be through challenging myself physically by learning advanced calisthenics skills or meditating daily to inspect the nature of consciousness, I'm always for challenging and beneficial things to add to my repertoire.
 
 Here is my resume: [resume](/assets/CS Resume.pdf)
