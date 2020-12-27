@@ -19,14 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Justin Ong
-author:
-  name: Justin Ong
-  email: cjto2000@gmail.com
+author: Justin Ong
+email: cjto2000@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Thank you for coming to my blog! Stay tuned for blog posts about whatever comes to mind.
+  Thank you for coming to my website! Stay tuned for blog posts about whatever comes to mind.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: cjus
 
 # Build settings
 theme: minima
