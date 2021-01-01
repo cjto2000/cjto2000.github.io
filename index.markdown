@@ -8,7 +8,7 @@ layout: home
 <link rel="stylesheet" href="/css/styles.css">
 <img class="justin_face" src="/assets/christopher_justin_ong.JPG"/>
 
-Hi! I'm Justin. I'm an undergraduate student at the University of Washington majoring in Computer Science and minoring in Entrepreneurship. I have worked at Amazon as an SDE Intern and currently work at [DotMote Labs](https://dotmotelabs.com/) as a Software Developer. This upcoming summer, I will be working at Okta as a Machine Learning Intern.
+Hi! I'm Justin. I'm an undergraduate student at the University of Washington majoring in Computer Science and minoring in Entrepreneurship. I have worked at Amazon Lab126 as an SDE Intern and currently work at [DotMote Labs](https://dotmotelabs.com/) as a Software Engineer. This upcoming summer, I will be working at Okta as a Machine Learning Intern.
 
 My technical interests are always changing, but right now, I am mainly interested in machine learning applications.
 
