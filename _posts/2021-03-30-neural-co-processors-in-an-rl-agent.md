@@ -17,7 +17,7 @@ In summary, the following things were done to implement neural co-processors in 
 1. I trained a fully functioning agent. The agent is able to walk perfectly well. **See Figure A**.
 2. I damaged H1 of the fully functioning agent by freezing 96% of the neurons in H1. I continued to train the damaged agent to see how much it could recover without the neural co-processor. Note that the training curve is much more stable because less weights are being learned. The agent appears to be severely disabled. **See Figure B**.
 3. I trained the EN by learning the weights from H2 to the action. **See Figure D**.
-4. I trained the CPN using the surrogate action from the EN instead of the real action. The output of the CPN is appended to the output of H1 when producing the action. As expected, the agent is now able to walk normally again with assistance from the CPN.  **See Figure C**.
+4. I trained the CPN using the surrogate action from the EN instead of the real action. The output of the CPN is appended to the output of the damaged layer (H1). As expected, the agent is now able to walk normally again with assistance from the CPN.  **See Figure C**.
 
 |**Figure A**
 |-------------------------|-------------------------
