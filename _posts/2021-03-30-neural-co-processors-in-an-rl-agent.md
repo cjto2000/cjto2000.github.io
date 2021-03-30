@@ -37,6 +37,6 @@ In summary, the following things were done to implement neural co-processors in 
 
 The gifs show a simulation of the best set of weights learned in the training sequence. 
 
-The graphs plot the average reward over every 5 episodes (however many timesteps that is). 
+The graphs (A-C) plot the average reward over every 5 episodes (however many timesteps that is). 
 
 All my code is [here](https://github.com/cjto2000/DDPG-PyTorch).
