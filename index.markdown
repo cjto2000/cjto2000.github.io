@@ -12,6 +12,6 @@ Hi! I'm Justin. I'm an undergraduate student at the University of Washington maj
 
 My technical interests often change, but broadly speaking, I'm interested in artificial intelligence. At UW, I am an undergraduate research assistant at the [Neural Systems Lab](https://neural.cs.washington.edu/) conducting research on neural co-processors. 
 
-Besides my technical interests, I'm interested in tools that help me explore my mind, improve my health, and develop personally. I'm also fascinated by many topics in psychology, philosophy, and neuroscience.
+Besides my technical interests, I'm interested in tools that help me explore my mind, improve my health, and develop personally. I'm also fascinated by many topics in psychology, philosophy, and neuroscience. In my free time, you can catch me at the climbing gym or training brazilian jiu jitsu.
 
 Here is my resume: [resume](/assets/CS Resume.pdf)
