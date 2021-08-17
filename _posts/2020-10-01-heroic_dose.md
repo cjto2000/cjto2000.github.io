@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Heroic Dose
+hidden: 1
 ---
 
 There has been a surge of research in psychedelics after several decades of unfounded stigmatization. Most notably, the [Center for Psychedelic & Consciousness Research](https://hopkinspsychedelic.org/) at John's Hopkins has come out with an overwhelming amount of positive results. Although I understand the gravitas of history in our underlying institutions and laws, I value reason infinitely more. I question why a substance such as alcohol, which is toxic by virtually every measure, is legal, while a mere fungus, which not only has [zero evidence](https://www.hopkinsmedicine.org/Press_releases/2006/GriffithspsilocybinQ) of neurotoxicity but has also been incredibly successful in [facilitating smoking cessation](https://files.csp.org/Psilocybin/Johnson2017Smoking.pdf), [treating addiction](http://www.centerforintegrativepsychology.org/Bogenschutz_16%20Psychedelics%20as%20aids%20for%20addiction%20therapy_Review.pdf), and [producing sustained decreases in depression and anxiety](https://journals.sagepub.com/doi/pdf/10.1177/0269881116675513), is a Schedule 1 drug and tantamount to heroin and cocaine in the eyes of the law. You can view the achievements and publications of the John's Hopkins Center [here](https://hopkinspsychedelic.org/achievements) if you are skeptical.
